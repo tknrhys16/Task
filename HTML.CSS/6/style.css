@@ -1,0 +1,29 @@
+
+.png1 {
+  width: 100%; /* 横幅 */
+  height: 200px; /* 高さ */
+  background-image: url(img/box1.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.png2 {
+  width: 100%; /* 横幅 */
+  height: 200px; /* 高さ */
+  background-image: url(img/box2.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.png3 {
+  width: 100%; /* 横幅 */
+  height: 200px; /* 高さ */
+  background-image: url(img/box3.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.png4 {
+  width: 100%; /* 横幅 */
+  height: 200px; /* 高さ */
+  background-image: url(img/box4.jpg);
+  background-size: cover;
+  background-position: center;
+}
